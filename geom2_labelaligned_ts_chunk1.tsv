@@ -1,0 +1,204 @@
+colour	x	y	key	label	clickSelects	showSelected1	showSelected2	PANEL	group
+#A58AFF	7.7	1959.5	Afghanistan	Afghanistan	Afghanistan	Afghanistan	Asie du Sud	1	1
+#FB61D7	6.446	1959.5	Afrique du Sud	Afrique du Sud	Afrique du Sud	Afrique du Sud	Afrique subsaharienne	1	2
+#C49A00	5.951	1959.5	Albanie	Albanie	Albanie	Albanie	Europe et Asie centrale	1	3
+#00C094	7.329	1959.5	Algérie	Algérie	Algérie	Algérie	Moyen-Orient et Afrique du Nord	1	4
+#C49A00	2.37	1959.5	Allemagne	Allemagne	Allemagne	Allemagne	Europe et Asie centrale	1	5
+#FB61D7	7.316	1959.5	Angola	Angola	Angola	Angola	Afrique subsaharienne	1	6
+#53B400	2	1959.5	Antigua-et-Barbuda	Antigua-et-Barbuda	Antigua-et-Barbuda	Antigua-et-Barbuda	Amérique latine et Caraïbes	1	7
+#00C094	7.216	1959.5	Arabie saoudite	Arabie saoudite	Arabie saoudite	Arabie saoudite	Moyen-Orient et Afrique du Nord	1	8
+#53B400	3.109	1959.5	Argentine	Argentine	Argentine	Argentine	Amérique latine et Caraïbes	1	9
+#C49A00	4.55	1959.5	Arménie	Arménie	Arménie	Arménie	Europe et Asie centrale	1	10
+#53B400	4.82	1959.5	Aruba	Aruba	Aruba	Aruba	Amérique latine et Caraïbes	1	11
+#F8766D	3.453	1959.5	Australie	Australie	Australie	Australie	Asie de l'Est et Pacifique	1	12
+#C49A00	2.69	1959.5	Autriche	Autriche	Autriche	Autriche	Europe et Asie centrale	1	13
+#C49A00	5.571	1959.5	Azerbaïdjan	Azerbaïdjan	Azerbaïdjan	Azerbaïdjan	Europe et Asie centrale	1	14
+#53B400	4.495	1959.5	Bahamas	Bahamas	Bahamas	Bahamas	Amérique latine et Caraïbes	1	15
+#00C094	7.09	1959.5	Bahreïn	Bahreïn	Bahreïn	Bahreïn	Moyen-Orient et Afrique du Nord	1	16
+#A58AFF	6.724	1959.5	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Asie du Sud	1	17
+#53B400	4.333	1959.5	Barbade	Barbade	Barbade	Barbade	Amérique latine et Caraïbes	1	18
+#C49A00	2.67	1959.5	Bélarus	Bélarus	Bélarus	Bélarus	Europe et Asie centrale	1	19
+#C49A00	2.575	1959.5	Belgique	Belgique	Belgique	Belgique	Europe et Asie centrale	1	20
+#53B400	6.5	1959.5	Belize	Belize	Belize	Belize	Amérique latine et Caraïbes	1	21
+#FB61D7	6.282	1959.5	Bénin	Bénin	Bénin	Bénin	Afrique subsaharienne	1	22
+#00B6EB	1.74	1959.5	Bermudes	Bermudes	Bermudes	Bermudes	Amérique du Nord	1	23
+#A58AFF	6.67	1959.5	Bhoutan	Bhoutan	Bhoutan	Bhoutan	Asie du Sud	1	24
+#53B400	6.696	1959.5	Bolivie	Bolivie	Bolivie	Bolivie	Amérique latine et Caraïbes	1	25
+#C49A00	4.052	1959.5	Bosnie-Herzégovine	Bosnie-Herzégovine	Bosnie-Herzégovine	Bosnie-Herzégovine	Europe et Asie centrale	1	26
+#FB61D7	6.615	1959.5	Botswana	Botswana	Botswana	Botswana	Afrique subsaharienne	1	27
+#53B400	6.21	1959.5	Brésil	Brésil	Brésil	Brésil	Amérique latine et Caraïbes	1	28
+#F8766D	6.487	1959.5	Brunéi Darussalam	Brunéi Darussalam	Brunéi Darussalam	Brunéi Darussalam	Asie de l'Est et Pacifique	1	29
+#C49A00	2.308	1959.5	Bulgarie	Bulgarie	Bulgarie	Bulgarie	Europe et Asie centrale	1	30
+#FB61D7	6.291	1959.5	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Afrique subsaharienne	1	31
+#FB61D7	6.801	1959.5	Burundi	Burundi	Burundi	Burundi	Afrique subsaharienne	1	32
+#F8766D	6.3	1959.5	Cambodge	Cambodge	Cambodge	Cambodge	Asie de l'Est et Pacifique	1	33
+#FB61D7	5.774	1959.5	Cameroun	Cameroun	Cameroun	Cameroun	Afrique subsaharienne	1	34
+#00B6EB	3.811	1959.5	Canada	Canada	Canada	Canada	Amérique du Nord	1	35
+#FB61D7	6.885	1959.5	Cap-Vert	Cap-Vert	Cap-Vert	Cap-Vert	Afrique subsaharienne	1	36
+#53B400	5.582	1959.5	Chili	Chili	Chili	Chili	Amérique latine et Caraïbes	1	37
+#F8766D	5.469	1959.5	Chine	Chine	Chine	Chine	Asie de l'Est et Pacifique	1	38
+#F8766D	5.162	1959.5	Chine, RAS de Hong Kong	Chine, RAS de Hong Kong	Chine, RAS de Hong Kong	Chine, RAS de Hong Kong	Asie de l'Est et Pacifique	1	39
+#C49A00	3.5	1959.5	Chypre	Chypre	Chypre	Chypre	Europe et Asie centrale	1	40
+#00C094	6.528	1959.5	Cisjordanie et Gaza	Cisjordanie et Gaza	Cisjordanie et Gaza	Cisjordanie et Gaza	Moyen-Orient et Afrique du Nord	1	41
+#53B400	6.807	1959.5	Colombie	Colombie	Colombie	Colombie	Amérique latine et Caraïbes	1	42
+#FB61D7	6.792	1959.5	Comores	Comores	Comores	Comores	Afrique subsaharienne	1	43
+#FB61D7	6.001	1959.5	Congo, République démocratique du	Congo, République démocratique du	Congo, République démocratique du	Congo, République démocratique du	Afrique subsaharienne	1	44
+#FB61D7	5.88	1959.5	Congo, République du	Congo, République du	Congo, République du	Congo, République du	Afrique subsaharienne	1	45
+#F8766D	3.643	1959.5	Corée du Nord	Corée du Nord	Corée du Nord	Corée du Nord	Asie de l'Est et Pacifique	1	46
+#F8766D	6.155	1959.5	Corée, République de	Corée, République de	Corée, République de	Corée, République de	Asie de l'Est et Pacifique	1	47
+#53B400	7.311	1959.5	Costa Rica	Costa Rica	Costa Rica	Costa Rica	Amérique latine et Caraïbes	1	48
+#FB61D7	7.351	1959.5	Côte d'Ivoire	Côte d'Ivoire	Côte d'Ivoire	Côte d'Ivoire	Afrique subsaharienne	1	49
+#C49A00	2.332	1959.5	Croatie	Croatie	Croatie	Croatie	Europe et Asie centrale	1	50
+#53B400	4.182	1959.5	Cuba	Cuba	Cuba	Cuba	Amérique latine et Caraïbes	1	51
+#53B400	2.1	1959.5	Curacao	Curacao	Curacao	Curacao	Amérique latine et Caraïbes	1	52
+#C49A00	2.57	1959.5	Danemark	Danemark	Danemark	Danemark	Europe et Asie centrale	1	53
+#00C094	7.816	1959.5	Djibouti	Djibouti	Djibouti	Djibouti	Moyen-Orient et Afrique du Nord	1	54
+#53B400	3.52	1959.5	Dominique	Dominique	Dominique	Dominique	Amérique latine et Caraïbes	1	55
+#00C094	6.65	1959.5	Égypte, République arabe d’	Égypte, République arabe d’	Égypte, République arabe d’	Égypte, République arabe d’	Moyen-Orient et Afrique du Nord	1	56
+#53B400	6.728	1959.5	El Salvador	El Salvador	El Salvador	El Salvador	Amérique latine et Caraïbes	1	57
+#00C094	6.928	1959.5	Émirats arabes unis	Émirats arabes unis	Émirats arabes unis	Émirats arabes unis	Moyen-Orient et Afrique du Nord	1	58
+#53B400	6.716	1959.5	Équateur	Équateur	Équateur	Équateur	Amérique latine et Caraïbes	1	59
+#FB61D7	6.899	1959.5	Érythrée	Érythrée	Érythrée	Érythrée	Afrique subsaharienne	1	60
+#C49A00	2.862	1959.5	Espagne	Espagne	Espagne	Espagne	Europe et Asie centrale	1	61
+#C49A00	1.96	1959.5	Estonie	Estonie	Estonie	Estonie	Europe et Asie centrale	1	62
+#FB61D7	6.717	1959.5	Eswatini	Eswatini	Eswatini	Eswatini	Afrique subsaharienne	1	63
+#00B6EB	3.654	1959.5	États-Unis	États-Unis	États-Unis	États-Unis	Amérique du Nord	1	64
+#FB61D7	6.881	1959.5	Éthiopie	Éthiopie	Éthiopie	Éthiopie	Afrique subsaharienne	1	65
+#C49A00	2.52	1959.5	Fédération de Russie	Fédération de Russie	Fédération de Russie	Fédération de Russie	Europe et Asie centrale	1	66
+#F8766D	6.461	1959.5	Fidji	Fidji	Fidji	Fidji	Asie de l'Est et Pacifique	1	67
+#C49A00	2.714	1959.5	Finlande	Finlande	Finlande	Finlande	Europe et Asie centrale	1	68
+#C49A00	2.85	1959.5	France	France	France	France	Europe et Asie centrale	1	69
+#FB61D7	4.105	1959.5	Gabon	Gabon	Gabon	Gabon	Afrique subsaharienne	1	70
+#FB61D7	5.573	1959.5	Gambie	Gambie	Gambie	Gambie	Afrique subsaharienne	1	71
+#C49A00	2.964	1959.5	Géorgie	Géorgie	Géorgie	Géorgie	Europe et Asie centrale	1	72
+#FB61D7	6.749	1959.5	Ghana	Ghana	Ghana	Ghana	Afrique subsaharienne	1	73
+#C49A00	2.277	1959.5	Grèce	Grèce	Grèce	Grèce	Europe et Asie centrale	1	74
+#53B400	6.743	1959.5	Grenade	Grenade	Grenade	Grenade	Amérique latine et Caraïbes	1	75
+#C49A00	2.53	1959.5	Groenland	Groenland	Groenland	Groenland	Europe et Asie centrale	1	76
+#F8766D	6.052	1959.5	Guam	Guam	Guam	Guam	Asie de l'Est et Pacifique	1	77
+#53B400	6.534	1959.5	Guatemala	Guatemala	Guatemala	Guatemala	Amérique latine et Caraïbes	1	78
+#FB61D7	6.372	1959.5	Guinée	Guinée	Guinée	Guinée	Afrique subsaharienne	1	79
+#FB61D7	5.505	1959.5	Guinée équatoriale	Guinée équatoriale	Guinée équatoriale	Guinée équatoriale	Afrique subsaharienne	1	80
+#FB61D7	5.828	1959.5	Guinée-Bissau	Guinée-Bissau	Guinée-Bissau	Guinée-Bissau	Afrique subsaharienne	1	81
+#53B400	6.474	1959.5	Guyana	Guyana	Guyana	Guyana	Amérique latine et Caraïbes	1	82
+#53B400	6.324	1959.5	Haïti	Haïti	Haïti	Haïti	Amérique latine et Caraïbes	1	83
+#53B400	7.458	1959.5	Honduras	Honduras	Honduras	Honduras	Amérique latine et Caraïbes	1	84
+#C49A00	2.019	1959.5	Hongrie	Hongrie	Hongrie	Hongrie	Europe et Asie centrale	1	85
+#C49A00	1.8	1959.5	Île de Man	Île de Man	Île de Man	Île de Man	Europe et Asie centrale	1	86
+#C49A00	2.421	1959.5	Îles Anglo-Normandes	Îles Anglo-Normandes	Îles Anglo-Normandes	Îles Anglo-Normandes	Europe et Asie centrale	1	87
+#F8766D	5.9	1959.5	Îles Marshall	Îles Marshall	Îles Marshall	Îles Marshall	Asie de l'Est et Pacifique	1	88
+#F8766D	6.388	1959.5	Îles Salomon	Îles Salomon	Îles Salomon	Îles Salomon	Asie de l'Est et Pacifique	1	89
+#53B400	5.547	1959.5	Îles Vierges (EU)	Îles Vierges (EU)	Îles Vierges (EU)	Îles Vierges (EU)	Amérique latine et Caraïbes	1	90
+#A58AFF	5.87	1959.5	Inde	Inde	Inde	Inde	Asie du Sud	1	91
+#F8766D	5.666	1959.5	Indonésie	Indonésie	Indonésie	Indonésie	Asie de l'Est et Pacifique	1	92
+#00C094	6.944	1959.5	Iran, République islamique d’	Iran, République islamique d’	Iran, République islamique d’	Iran, République islamique d’	Moyen-Orient et Afrique du Nord	1	93
+#00C094	6.252	1959.5	Iraq	Iraq	Iraq	Iraq	Moyen-Orient et Afrique du Nord	1	94
+#C49A00	3.76	1959.5	Irlande	Irlande	Irlande	Irlande	Europe et Asie centrale	1	95
+#C49A00	4.294	1959.5	Islande	Islande	Islande	Islande	Europe et Asie centrale	1	96
+#00C094	3.858	1959.5	Israël	Israël	Israël	Israël	Moyen-Orient et Afrique du Nord	1	97
+#C49A00	2.406	1959.5	Italie	Italie	Italie	Italie	Europe et Asie centrale	1	98
+#53B400	5.419	1959.5	Jamaïque	Jamaïque	Jamaïque	Jamaïque	Amérique latine et Caraïbes	1	99
+#F8766D	2.001	1959.5	Japon	Japon	Japon	Japon	Asie de l'Est et Pacifique	1	100
+#00C094	7.687	1959.5	Jordanie	Jordanie	Jordanie	Jordanie	Moyen-Orient et Afrique du Nord	1	101
+#C49A00	4.563	1959.5	Kazakhstan	Kazakhstan	Kazakhstan	Kazakhstan	Europe et Asie centrale	1	102
+#FB61D7	7.946	1959.5	Kenya	Kenya	Kenya	Kenya	Afrique subsaharienne	1	103
+#F8766D	4.5	1959.5	Kiribati	Kiribati	Kiribati	Kiribati	Asie de l'Est et Pacifique	1	104
+#C49A00	4.5758	1959.5	Kosovo	Kosovo	Kosovo	Kosovo	Europe et Asie centrale	1	105
+#00C094	7.251	1959.5	Koweït	Koweït	Koweït	Koweït	Moyen-Orient et Afrique du Nord	1	106
+#FB61D7	5.839	1959.5	Lesotho	Lesotho	Lesotho	Lesotho	Afrique subsaharienne	1	107
+#C49A00	1.94	1959.5	Lettonie	Lettonie	Lettonie	Lettonie	Europe et Asie centrale	1	108
+#00C094	5.731	1959.5	Liban	Liban	Liban	Liban	Moyen-Orient et Afrique du Nord	1	109
+#FB61D7	6.406	1959.5	Libéria	Libéria	Libéria	Libéria	Afrique subsaharienne	1	110
+#00C094	7.057	1959.5	Libye	Libye	Libye	Libye	Moyen-Orient et Afrique du Nord	1	111
+#C49A00	2.56	1959.5	Lituanie	Lituanie	Lituanie	Lituanie	Europe et Asie centrale	1	112
+#C49A00	2.28	1959.5	Luxembourg	Luxembourg	Luxembourg	Luxembourg	Europe et Asie centrale	1	113
+#C49A00	4.128	1959.5	Macédoine du Nord	Macédoine du Nord	Macédoine du Nord	Macédoine du Nord	Europe et Asie centrale	1	114
+#FB61D7	7.3	1959.5	Madagascar	Madagascar	Madagascar	Madagascar	Afrique subsaharienne	1	115
+#F8766D	6.309	1959.5	Malaisie	Malaisie	Malaisie	Malaisie	Asie de l'Est et Pacifique	1	116
+#FB61D7	6.909	1959.5	Malawi	Malawi	Malawi	Malawi	Afrique subsaharienne	1	117
+#A58AFF	7.021	1959.5	Maldives	Maldives	Maldives	Maldives	Asie du Sud	1	118
+#FB61D7	6.703	1959.5	Mali	Mali	Mali	Mali	Afrique subsaharienne	1	119
+#00C094	3.62	1959.5	Malte	Malte	Malte	Malte	Moyen-Orient et Afrique du Nord	1	120
+#00C094	7.17	1959.5	Maroc	Maroc	Maroc	Maroc	Moyen-Orient et Afrique du Nord	1	121
+#FB61D7	6.167	1959.5	Maurice	Maurice	Maurice	Maurice	Afrique subsaharienne	1	122
+#FB61D7	6.775	1959.5	Mauritanie	Mauritanie	Mauritanie	Mauritanie	Afrique subsaharienne	1	123
+#53B400	6.783	1959.5	Mexique	Mexique	Mexique	Mexique	Amérique latine et Caraïbes	1	124
+#F8766D	6.934	1959.5	Micronésie, États fédérés de	Micronésie, États fédérés de	Micronésie, États fédérés de	Micronésie, États fédérés de	Asie de l'Est et Pacifique	1	125
+#C49A00	3.328	1959.5	Moldova	Moldova	Moldova	Moldova	Europe et Asie centrale	1	126
+#F8766D	6.953	1959.5	Mongolie	Mongolie	Mongolie	Mongolie	Asie de l'Est et Pacifique	1	127
+#C49A00	2.634	1959.5	Monténégro	Monténégro	Monténégro	Monténégro	Europe et Asie centrale	1	128
+#FB61D7	6.6	1959.5	Mozambique	Mozambique	Mozambique	Mozambique	Afrique subsaharienne	1	129
+#F8766D	6.05	1959.5	Myanmar	Myanmar	Myanmar	Myanmar	Asie de l'Est et Pacifique	1	130
+#FB61D7	6.149	1959.5	Namibie	Namibie	Namibie	Namibie	Afrique subsaharienne	1	131
+#A58AFF	6.103	1959.5	Népal	Népal	Népal	Népal	Asie du Sud	1	132
+#53B400	7.336	1959.5	Nicaragua	Nicaragua	Nicaragua	Nicaragua	Amérique latine et Caraïbes	1	133
+#FB61D7	7.039	1959.5	Niger	Niger	Niger	Niger	Afrique subsaharienne	1	134
+#FB61D7	6.354	1959.5	Nigéria	Nigéria	Nigéria	Nigéria	Afrique subsaharienne	1	135
+#C49A00	2.846	1959.5	Norvège	Norvège	Norvège	Norvège	Europe et Asie centrale	1	136
+#F8766D	6.278	1959.5	Nouvelle-Calédonie	Nouvelle-Calédonie	Nouvelle-Calédonie	Nouvelle-Calédonie	Asie de l'Est et Pacifique	1	137
+#F8766D	4.129	1959.5	Nouvelle-Zélande	Nouvelle-Zélande	Nouvelle-Zélande	Nouvelle-Zélande	Asie de l'Est et Pacifique	1	138
+#00C094	7.247	1959.5	Oman	Oman	Oman	Oman	Moyen-Orient et Afrique du Nord	1	139
+#FB61D7	6.999	1959.5	Ouganda	Ouganda	Ouganda	Ouganda	Afrique subsaharienne	1	140
+#C49A00	6.707	1959.5	Ouzbékistan	Ouzbékistan	Ouzbékistan	Ouzbékistan	Europe et Asie centrale	1	141
+#A58AFF	6.6	1959.5	Pakistan	Pakistan	Pakistan	Pakistan	Asie du Sud	1	142
+#F8766D	2.7572	1959.5	Palaos	Palaos	Palaos	Palaos	Asie de l'Est et Pacifique	1	143
+#53B400	5.943	1959.5	Panama	Panama	Panama	Panama	Amérique latine et Caraïbes	1	144
+#F8766D	6.275	1959.5	Papouasie-Nouvelle-Guinée	Papouasie-Nouvelle-Guinée	Papouasie-Nouvelle-Guinée	Papouasie-Nouvelle-Guinée	Asie de l'Est et Pacifique	1	145
+#53B400	6.5	1959.5	Paraguay	Paraguay	Paraguay	Paraguay	Amérique latine et Caraïbes	1	146
+#C49A00	3.122	1959.5	Pays-Bas	Pays-Bas	Pays-Bas	Pays-Bas	Europe et Asie centrale	1	147
+#53B400	6.876	1959.5	Pérou	Pérou	Pérou	Pérou	Amérique latine et Caraïbes	1	148
+#F8766D	7.148	1959.5	Philippines	Philippines	Philippines	Philippines	Asie de l'Est et Pacifique	1	149
+#C49A00	2.98	1959.5	Pologne	Pologne	Pologne	Pologne	Europe et Asie centrale	1	150
+#F8766D	6.508	1959.5	Polynésie française	Polynésie française	Polynésie française	Polynésie française	Asie de l'Est et Pacifique	1	151
+#53B400	4.657	1959.5	Porto Rico	Porto Rico	Porto Rico	Porto Rico	Amérique latine et Caraïbes	1	152
+#C49A00	3.006	1959.5	Portugal	Portugal	Portugal	Portugal	Europe et Asie centrale	1	153
+#00C094	6.971	1959.5	Qatar	Qatar	Qatar	Qatar	Moyen-Orient et Afrique du Nord	1	154
+#F8766D	4.945	1959.5	Région administrative spéciale de Macao, Chine	Région administrative spéciale de Macao, Chine	Région administrative spéciale de Macao, Chine	Région administrative spéciale de Macao, Chine	Asie de l'Est et Pacifique	1	155
+#00C094	7.467	1959.5	République arabe syrienne	République arabe syrienne	République arabe syrienne	République arabe syrienne	Moyen-Orient et Afrique du Nord	1	156
+#FB61D7	5.84	1959.5	République centrafricaine	République centrafricaine	République centrafricaine	République centrafricaine	Afrique subsaharienne	1	157
+#F8766D	5.961	1959.5	République démocratique populaire lao	République démocratique populaire lao	République démocratique populaire lao	République démocratique populaire lao	Asie de l'Est et Pacifique	1	158
+#53B400	7.555	1959.5	République dominicaine	République dominicaine	République dominicaine	République dominicaine	Amérique latine et Caraïbes	1	159
+#C49A00	5.166	1959.5	République kirghize	République kirghize	République kirghize	République kirghize	Europe et Asie centrale	1	160
+#C49A00	3.04	1959.5	République slovaque	République slovaque	République slovaque	République slovaque	Europe et Asie centrale	1	161
+#C49A00	2.075	1959.5	République tchèque	République tchèque	République tchèque	République tchèque	Europe et Asie centrale	1	162
+#C49A00	2.34	1959.5	Roumanie	Roumanie	Roumanie	Roumanie	Europe et Asie centrale	1	163
+#C49A00	2.692	1959.5	Royaume-Uni	Royaume-Uni	Royaume-Uni	Royaume-Uni	Europe et Asie centrale	1	164
+#FB61D7	8.165	1959.5	Rwanda	Rwanda	Rwanda	Rwanda	Afrique subsaharienne	1	165
+#53B400	3.3	1959.5	Saint-Kitts-et-Nevis	Saint-Kitts-et-Nevis	Saint-Kitts-et-Nevis	Saint-Kitts-et-Nevis	Amérique latine et Caraïbes	1	166
+#53B400	7.224	1959.5	Saint-Vincent-et-les Grenadines	Saint-Vincent-et-les Grenadines	Saint-Vincent-et-les Grenadines	Saint-Vincent-et-les Grenadines	Amérique latine et Caraïbes	1	167
+#53B400	6.967	1959.5	Sainte-Lucie	Sainte-Lucie	Sainte-Lucie	Sainte-Lucie	Amérique latine et Caraïbes	1	168
+#F8766D	7.362	1959.5	Samoa	Samoa	Samoa	Samoa	Asie de l'Est et Pacifique	1	169
+#FB61D7	6.242	1959.5	Sao Tomé-et-Principe	Sao Tomé-et-Principe	Sao Tomé-et-Principe	Sao Tomé-et-Principe	Afrique subsaharienne	1	170
+#FB61D7	6.635	1959.5	Sénégal	Sénégal	Sénégal	Sénégal	Afrique subsaharienne	1	171
+#C49A00	1.8	1959.5	Serbie	Serbie	Serbie	Serbie	Europe et Asie centrale	1	172
+#FB61D7	3.5	1959.5	Seychelles	Seychelles	Seychelles	Seychelles	Afrique subsaharienne	1	173
+#FB61D7	6.034	1959.5	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Afrique subsaharienne	1	174
+#F8766D	5.454	1959.5	Singapour	Singapour	Singapour	Singapour	Asie de l'Est et Pacifique	1	175
+#53B400	1.5	1959.5	Sint Maarten (Dutch part)	Sint Maarten (Dutch part)	Sint Maarten (Dutch part)	Sint Maarten (Dutch part)	Amérique latine et Caraïbes	1	176
+#C49A00	2.323	1959.5	Slovénie	Slovénie	Slovénie	Slovénie	Europe et Asie centrale	1	177
+#FB61D7	7.25	1959.5	Somalie	Somalie	Somalie	Somalie	Afrique subsaharienne	1	178
+#FB61D7	6.625	1959.5	Soudan	Soudan	Soudan	Soudan	Afrique subsaharienne	1	179
+#FB61D7	3.85	1959.5	Soudan du Sud	Soudan du Sud	Soudan du Sud	Soudan du Sud	Afrique subsaharienne	1	180
+#A58AFF	5.541	1959.5	Sri Lanka	Sri Lanka	Sri Lanka	Sri Lanka	Asie du Sud	1	181
+#C49A00	2.174	1959.5	Suède	Suède	Suède	Suède	Europe et Asie centrale	1	182
+#C49A00	2.336	1959.5	Suisse	Suisse	Suisse	Suisse	Europe et Asie centrale	1	183
+#53B400	6.608	1959.5	Suriname	Suriname	Suriname	Suriname	Amérique latine et Caraïbes	1	184
+#C49A00	6.235	1959.5	Tadjikistan	Tadjikistan	Tadjikistan	Tadjikistan	Europe et Asie centrale	1	185
+#FB61D7	6.806	1959.5	Tanzanie	Tanzanie	Tanzanie	Tanzanie	Afrique subsaharienne	1	186
+#FB61D7	6.25	1959.5	Tchad	Tchad	Tchad	Tchad	Afrique subsaharienne	1	187
+#F8766D	6.147	1959.5	Thaïlande	Thaïlande	Thaïlande	Thaïlande	Asie de l'Est et Pacifique	1	188
+#F8766D	6.373	1959.5	Timor-Leste	Timor-Leste	Timor-Leste	Timor-Leste	Asie de l'Est et Pacifique	1	189
+#FB61D7	6.521	1959.5	Togo	Togo	Togo	Togo	Afrique subsaharienne	1	190
+#F8766D	7.363	1959.5	Tonga	Tonga	Tonga	Tonga	Asie de l'Est et Pacifique	1	191
+#53B400	5.237	1959.5	Trinité-et-Tobago	Trinité-et-Tobago	Trinité-et-Tobago	Trinité-et-Tobago	Amérique latine et Caraïbes	1	192
+#00C094	7.182	1959.5	Tunisie	Tunisie	Tunisie	Tunisie	Moyen-Orient et Afrique du Nord	1	193
+#C49A00	6.415	1959.5	Turkménistan	Turkménistan	Turkménistan	Turkménistan	Europe et Asie centrale	1	194
+#C49A00	6.116	1959.5	Turquie	Turquie	Turquie	Turquie	Europe et Asie centrale	1	195
+#C49A00	2.24	1959.5	Ukraine	Ukraine	Ukraine	Ukraine	Europe et Asie centrale	1	196
+#53B400	2.881	1959.5	Uruguay	Uruguay	Uruguay	Uruguay	Amérique latine et Caraïbes	1	197
+#F8766D	7.197	1959.5	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Asie de l'Est et Pacifique	1	198
+#53B400	6.616	1959.5	Venezuela	Venezuela	Venezuela	Venezuela	Amérique latine et Caraïbes	1	199
+#F8766D	7.085	1959.5	Vietnam	Vietnam	Vietnam	Vietnam	Asie de l'Est et Pacifique	1	200
+#00C094	7.292	1959.5	Yémen, Rép. du	Yémen, Rép. du	Yémen, Rép. du	Yémen, Rép. du	Moyen-Orient et Afrique du Nord	1	201
+#FB61D7	7.018	1959.5	Zambie	Zambie	Zambie	Zambie	Afrique subsaharienne	1	202
+#FB61D7	7.158	1959.5	Zimbabwe	Zimbabwe	Zimbabwe	Zimbabwe	Afrique subsaharienne	1	203
